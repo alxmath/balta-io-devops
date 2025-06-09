@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("balta-io-devops")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b15dfe2f8fccb43442ab80cd310d2ac9cd2f1be7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9f084b5cecef502ac507f2ce3304cf30a7d0296")]
 [assembly: System.Reflection.AssemblyProductAttribute("balta-io-devops")]
 [assembly: System.Reflection.AssemblyTitleAttribute("balta-io-devops")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
